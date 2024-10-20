@@ -16,8 +16,8 @@
 - 1/4 cup (4 tbsp) fine #1 bulgur or hemp seed
 
 **Seasoning**
-- 1/4 tsp salt
-- 1/4 tsp black pepper
+- salt
+- black pepper
 
 ## Procedure
 **Dressing**
