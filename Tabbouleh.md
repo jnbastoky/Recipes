@@ -21,9 +21,9 @@
 
 ## Procedure
 **Dressing**
-1. Whisk the olive oil, lemon juice, salt, and pepper in a large bowl until well combined
+1. Whisk the olive oil and  lemon juice in a small bowl until well combined
 2. Stir in the bulgur or hemp seed
-3. Let the grains soak up the dressing until they are plump and most of the moisture is absorbed for about 20 to 30 minutes
+3. Let the grains soak up the dressing until they are plump and most of the moisture is absorbed for about 15 minutes
 
 **Greens**
 1. Prep salad while grain is soaking
