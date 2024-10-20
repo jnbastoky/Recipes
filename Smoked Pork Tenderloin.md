@@ -28,3 +28,5 @@
 
 ## Notes
 Left overs can be sliced and seared in butter in a skillet
+
+![image](.attachments/43fc64367a25c3a635a809784aad235101a6e431.jpeg) 
