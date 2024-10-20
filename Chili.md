@@ -27,8 +27,11 @@
 1. Brown beef in a large cast iron skillet. Salt.
      It doesn't have to be completely cooked through at this point--don't overcook it.
 3. Saute onions and bell pepper in dutch oven until browned.  Salt.
-     This isn't quite to the point of caramalization but it's getting there.
-     Make sure to scrape the bottom as you go. This takes a while.  Add garlic when its almost done browning.
+    1. Use neutral oil like avocado oil.
+    2. This isn't quite to the point of caramalization but it's getting there.
+    3. Make sure to scrape the bottom as you go.
+    4. This takes a while.
+    5. Add garlic when its almost done browning.
 5. Remove from heat and add Phase 1 Spices.
 6. Add 2 cups of bone broth and scrape the bottom of the pan.
 7. Add tomatoes and beef (including in fat/juices in the pan.)
