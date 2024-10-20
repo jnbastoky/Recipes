@@ -14,8 +14,8 @@
 _Figure out when to add salt to dough_
 
 **Prep Dough (24 hours)**
-1. Proof yeast with a little sugar
-3. Mix in stand mixer until smoothish (5+ min)
+1. Proof yeast with a little sugar in the water
+3. Mix flour, water, in stand mixer until smoothish (5+ min)
      Added a splash of olive oil
 4. Form into a ball
 5. Refrigerate and cover for 24 hrs
