@@ -20,7 +20,7 @@
   - 1 tsp - Oregano
   - ½ tsp - Cheyenne or habanero powder
   - 1 tsp - Smoked Paprika
-  - 1 tbsp - red wine viengar
+- 1 tbsp - red wine viengar
 
 
 ## Procedure
