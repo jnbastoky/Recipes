@@ -24,7 +24,7 @@
 
 
 ## Procedure
-1. Brown beef in a skillet. Salt.
+1. Brown beef in a large cast iron skillet. Salt.
 2. Saute onions and bell pepper in dutch oven until browned.  Salt.  Make sure to scrape the bottom. This takes a while.  Add garlic when its almost done browning
 4. Remove from heat and add Phase 1 Spices.
 5. Add 2 cups of bone broth and scrape the bottom of the pan.
@@ -40,4 +40,5 @@
 
 
 ## Notes
-
+Brown the beef while the onions and bell peppers are cooking.
+Can add a tsp of baking soda to a little water and toss the beef in it to get a little more browning.
