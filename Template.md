@@ -1,5 +1,8 @@
 # Template
-Yield: #
+**Yield:** #
+**Prep Time:** #
+**Cook Time:** #
+
 ## Ingredients
 - 
 
