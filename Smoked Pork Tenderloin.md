@@ -10,7 +10,7 @@
 - wood chips
 
 ## Procedure
-**Prep grill**
+**Prep Grill**
 1. Preheat wood chips in smoker box on high until smoking
 2. Turn down to low once smoking
 3. Grill should be around 225F.  (May end up being around 250F)
