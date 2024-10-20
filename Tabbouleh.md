@@ -13,7 +13,7 @@
 **Dressing**
 - 1/3 cup extra virgin olive oil
 - 3 tbsp lemon juice
-- 1/4 cup fine #1 bulgur or hemp seed
+- 1/4 cup (4 tbsp) fine #1 bulgur or hemp seed
 
 **Seasoning**
 - 1/4 tsp salt
@@ -27,9 +27,10 @@
 
 **Greens**
 1. Prep salad while grain is soaking
-2. When the bulgur is plump, and the lemon-olive oil mixture is mostly absorbed, combine with greens
-3. Salt and pepper to taste
-4. Refrigerate
+2. Make sure parsley is as dry as possible
+3. When the bulgur is plump, and the lemon-olive oil mixture is mostly absorbed, combine with greens
+4. Salt and pepper to taste
+5. Refrigerate
 
 ## Notes
 Serve on crispy romaine.
