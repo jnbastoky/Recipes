@@ -18,21 +18,25 @@
   - 2 Tbsp - Chili Powder
   - 1 ½  tsp - Cumin
   - 1 tsp - Oregano
-  - ½ tsp - Cheyenne
+  - ½ tsp - Cheyenne or habanero powder
   - 1 tsp - Smoked Paprika
+  - 1 tbsp - red wine viengar
 
 
 ## Procedure
 1. Brown beef in a skillet. Salt.
-2. Saute onions, bell pepper, & garlic in dutch oven until browned.  Salt.  Make sure to scrape the bottom.
-3. Remove from heat and add Phase 1 Spices.
-4. Add 2 cups of bone broth and scrape the bottom of the pan.
-5. Add tomatoes and beef
-6. Bring to a boil then simmer and reduce
-7. Add Phase 2 Spices and 1 cup of bone broth
-8. Simmer and reduce
-9. Add 1 cup of bone broth
+2. Saute onions and bell pepper in dutch oven until browned.  Salt.  Make sure to scrape the bottom. This takes a while.  Add garlic when its almost done browning
+4. Remove from heat and add Phase 1 Spices.
+5. Add 2 cups of bone broth and scrape the bottom of the pan.
+6. Add tomatoes and beef
+7. Bring to a boil.
+8. Simmer to reduce
+9. Add Phase 2 Spices and 1 cup of bone broth
 10. Simmer and reduce
+11. Add 1 cup of bone broth
+12. Simmer and reduce
+13. It's done when you can move a spoon from the front to the back of the dutch oven and briefly see the bottom of the pan.  It's shouldn't be soupy at this point.
+14. Add vinegar
 
 
 ## Notes
