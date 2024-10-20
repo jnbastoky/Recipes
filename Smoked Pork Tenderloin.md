@@ -16,10 +16,10 @@
 3. Grill should be around 225F.  (May end up being around 250F)
 
 **Prep Tenderloin**
-1. Fold the narrow tip over and tie with butcher twine
-5. Dry tenderloin
-6. Salt meat
-7. Apply rub
+1. Pat dry tenderloin
+2. Fold the narrow tip over and tie with butcher twine
+6. Salt meat. Salt pretty heavily like you would a steak.  Might need to adjust based on the saltiness of the rub.
+7. Apply a generous amount of rub
 
 **Smoke**
 1. Oil grill grates
@@ -29,4 +29,4 @@
 ## Notes
 Left overs can be sliced and seared in butter in a skillet
 
-![image](.attachments/43fc64367a25c3a635a809784aad235101a6e431.jpeg) 
+![image](.attachments/43fc64367a25c3a635a809784aad235101a6e431.jpeg)
