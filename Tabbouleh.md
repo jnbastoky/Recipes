@@ -7,7 +7,7 @@
 **Greens**
 - 2 bunches parsley (about 2 cups chopped)
 - 1/4 cup fresh mint leaves, finely chopped
-- 1-2 roma tomatoes, small dice
+- 1-2 vine-ripe tomatoes, small dice
 - 2 green onions, finely chopped
 
 **Dressing**
