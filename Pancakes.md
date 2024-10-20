@@ -7,7 +7,7 @@
 - 8 oz Cream Cheese (room temp)
 - 8 large eggs
 - 2 oz (1/4 cup, 1/2 stick) Butter (room temp)
-- 2 scoops (62 g) Protein Powder
+- 62 g (2 scoops) Protein Powder
 - 1 tsp vanilla extract
 - 1/4-1/2 tsp of baking powder
 - Sugar Free Maple Syrup (for topping)
@@ -25,3 +25,4 @@
 
 ## Notes
 **Source:** https://www.ketoconnect.net/keto-macro-cakes/
+**Protein Powder:** [ISOPURE® ZERO CARB PROTEIN UNFLAVORED](https://www.theisopurecompany.com/en-us/Products/Powder/ISOPURE%C2%AE-ZERO-CARB-PROTEIN-UNFLAVORED/p/C101302)
