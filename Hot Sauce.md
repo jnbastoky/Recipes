@@ -13,9 +13,11 @@
 1. Prepare peppers
     1. Halve  Peppers
     1. Remove seeds and some membrane--enough to remove the seeds.  Some membrane should remain.
-1. Chop peppers in food processor to make mash
+2. Start steaming mason jar to sanitize
+1. Chop peppers in food processor to make mash.
+    1. Liquid should come out of the peppers enough that the peppers should be submerged
 1. Transfer to quart mason jar
-1. Add liquid from Bubbies Pickles as a fermentation starter
+1. Add a little liquid from Bubbies Pickles as a fermentation starter
 1. Add a Ziploc bag of 3% brine to the top to prevent air contact
 1. Let ferment for approximately a week. pH should be less than 4.5
 1. Blend smooth when fermentation is complete
