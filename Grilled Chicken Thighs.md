@@ -17,7 +17,7 @@
 5. Oil grill grates
 6. Place thighs directly over burners
 7. Flip after 10 minutes. The edges should be starting to turn reddish-brown.
-8. Cook another 8-12 minutes depending on size to internal temperature of 160F. Thighs should be have reddish brown color. 
+8. Cook another 8-12 minutes depending on size to internal temperature of 160F. Thighs should be have reddish-brown color. 
 
 ## Notes
 
