@@ -36,4 +36,5 @@
 
 ## Notes
 - 10 min steam let the yolk not evenly cooked.  Thought this would be better for the filling consistency but might have made the yolk harder to remove.
+- https://www.youtube.com/watch?v=xbIu6Feaj4I
 - https://www.foodnetwork.com/recipes/classic-deviled-eggs-recipe-1911032
