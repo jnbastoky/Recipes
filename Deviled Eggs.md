@@ -1,7 +1,7 @@
 # Deviled Eggs
-**Yield:** 3
-**Prep Time:** 10 min
-**Cook Time:** 10 min
+**Yield:** 12 deviled egg halves
+**Prep Time:** 20 min
+**Cook Time:** 15 min
 
 ## Ingredients
 - 6 eggs
