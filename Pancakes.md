@@ -9,8 +9,9 @@
 - 2 oz (1/4 cup, 1/2 stick) Butter (room temp)
 - 62 g (2 scoops) Protein Powder
 - 1 tsp vanilla extract
-- 1/4-1/2 tsp of baking powder
+- 1-1/2 tsp of baking powder
 - Sugar Free Maple Syrup (for topping)
+- Maybe a little salt
 
 ## Procedure
 1. In stand mixer combine cream cheese and butter
