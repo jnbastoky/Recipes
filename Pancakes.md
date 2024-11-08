@@ -17,7 +17,7 @@
 2. Add egg one at a time
 3. Add the protein powder to the wet ingredient mixture and mix until fully combined
 4. Add the vanilla extract and baking powder
-5. Heat a skillet on medium heat (4.5?)
+5. Heat a skillet on medium-low heat (~3.5)
 6. Spray pan with coconut cooking spray
 7. Pour in the pancake batter and cook for 2 minutes on each side.
     1. Re-spray between flips
