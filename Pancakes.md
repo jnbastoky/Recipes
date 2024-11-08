@@ -11,13 +11,12 @@
 - 1 tsp vanilla extract
 - 1-1/2 tsp of baking powder
 - Sugar Free Maple Syrup (for topping)
-- Maybe a little salt
 
 ## Procedure
 1. In stand mixer combine cream cheese and butter
 2. Add egg one at a time
 3. Add the protein powder to the wet ingredient mixture and mix until fully combined
-4. Add the vanilla extract and baking powder
+4. Add the vanilla extract and baking powder and maybe a little salt
 5. Heat a skillet on medium-low heat (~3.5)
 6. Spray pan with coconut cooking spray
 7. Pour in the pancake batter and cook for 2 minutes on each side.
