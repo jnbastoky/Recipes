@@ -1,7 +1,7 @@
 # Pancakes (Keto Macro Cakes)
 **Yield:** 30 (?) cakes
 **Prep Time:** 15 min
-**Cook Time:** 15 min
+**Cook Time:** 30-45 min (2 cakes at a time)
 
 ## Ingredients
 - 8 oz Cream Cheese (room temp)
