@@ -7,13 +7,16 @@
 - 5 oz slaw mix
 - 1.5 oz mayonnaise
 - 1.5 tbsp pickle juice
+- 1 tbsp gochujang
 - garlic powder
 - onion powder
-- salt pepper
+- salt
+- pepper
 - celery seed
 
 ## Procedure
-1. Mix all ingredients
+1. Mix mayonnaise, pickle juice, gochujang, onion, and seasonings
+2. Mix in slaw mix
 
 ## Notes
 
