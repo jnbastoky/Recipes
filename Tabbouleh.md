@@ -4,28 +4,28 @@
 **Cook Time:** 5 min
 
 ## Ingredients
-**Greens**
+### Greens
 - 2 bunches parsley (about 2 cups chopped)
 - 1/4 cup fresh mint leaves, finely chopped
 - 1-2 vine-ripe tomatoes, small dice
 - 2 green onions, finely chopped
 
-**Dressing**
+### Dressing
 - 1/3 cup extra virgin olive oil
 - 3 tbsp lemon juice
 - 1/4 cup (4 tbsp) fine #1 bulgur or hemp seed
 
-**Seasoning**
+### Seasoning
 - salt
 - black pepper
 
 ## Procedure
-**Dressing**
+### Dressing
 1. Whisk the olive oil and  lemon juice in a small bowl until well combined
 2. Stir in the bulgur or hemp seed
 3. Let the grains soak up the dressing until they are plump and most of the moisture is absorbed for about 15 minutes
 
-**Greens**
+### Greens
 1. Prep salad while grain is soaking
 2. Make sure parsley is as dry as possible
 3. When the bulgur is plump, and the lemon-olive oil mixture is mostly absorbed, combine with greens
