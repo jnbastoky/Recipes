@@ -4,7 +4,7 @@
 **Cook Time:** #
 
 ## Ingredients
-- 4 cups / 24 oz chicken breasts
+- 4 cups / 24 oz chicken breasts (or cutlets)
 - 8 oz cream cheese, room temp
 - 3/4 cup  Buffalo sauce
 - 1 cup Ranch dressing
@@ -13,7 +13,7 @@
 ## Procedure
 ### Prep Chicken
 1. Preheat oven to 350 F
-2. Butterfly chicken breasts
+2. Butterfly chicken breasts if you aren't using cutlets
 3. Salt chicken. Let set 30 min - 1 hr
 4. Bake chicken until 165 F
 5. Rest
