@@ -13,20 +13,20 @@
 ## Procedure
 _Figure out when to add salt to dough_
 
-**Prep Dough (24 hours)**
+### Prep Dough (24 hours)
 1. Proof yeast with a little sugar in the water
 3. Mix flour, water, in stand mixer until smoothish (5+ min)
      Added a splash of olive oil
 4. Form into a ball
 5. Refrigerate and cover for 24 hrs
 
-**Form Pizza**
+### Form Pizza
 1. Let dough come to room temperature
 2. Oil 12* cast iron skillet
 3. Stretch dough to fit pan
 4. Let rise for 1-2 hours
 
-**Cook Pizza**
+### Cook Pizza
 1. Turn on boiler (probably low broiler)
 2. Turn on other over to 350F
 3. Place skillet on stove med heat for 8-10 min to brown bottom of crust
