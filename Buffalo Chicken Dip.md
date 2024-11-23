@@ -1,7 +1,7 @@
 # Buffalo Chicken Dip
 **Yield:** 13 servings
-**Prep Time:** #
-**Cook Time:** #
+**Prep Time:** 10 min
+**Cook Time:** 1 hr
 
 ## Ingredients
 - 4 cups / 24 oz chicken breasts (or cutlets)
@@ -15,7 +15,7 @@
 1. Preheat oven to 350 F
 2. Butterfly chicken breasts if you aren't using cutlets
 3. Salt chicken. Let set 30 min - 1 hr
-4. Bake chicken until 165 F
+4. Bake chicken until 165 F (about 15 min)
 5. Rest
 6. Shred in stand mixer
 
