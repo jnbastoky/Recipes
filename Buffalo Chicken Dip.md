@@ -1,4 +1,4 @@
-# Template
+# Buffalo Chicken Dip
 **Yield:** 13 servings
 **Prep Time:** #
 **Cook Time:** #
@@ -33,4 +33,4 @@
 6. Bake for 10 minutes or until the cheese on top is melted and bubbling.
 
 ## Notes
-https://www.homemadeinterest.com/buffalo-chicken-dip-recipe-oven/#recipe
+- https://www.homemadeinterest.com/buffalo-chicken-dip-recipe-oven/#recipe
