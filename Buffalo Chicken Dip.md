@@ -30,7 +30,7 @@
 3. Cover the dish with aluminum foil.
 4. Bake for 20 minutes.
 5. Sprinkle the remaining 2.5 ounces of cheddar cheese over the top.
-6. Bake for 10 minutes or until the cheese on top is melted and bubbling.
+6. Bake for 10 minutes or until the cheese on top is melted. Turn on broiler to brown. 
 
 ## Notes
 - https://www.homemadeinterest.com/buffalo-chicken-dip-recipe-oven/#recipe
