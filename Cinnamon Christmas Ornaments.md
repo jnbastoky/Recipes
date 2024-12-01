@@ -21,8 +21,8 @@
 
 ### Assemble
 1. Cut string into 12" pieces
-2. Form a loop and knot[^1]
-3. Pass the loop of string through the hole in the ornament and then pass the knotted end through the loop
+2. Form a loop and tie using an overhand knot[^1]
+3. Pass the loop of string through the hole in the ornament and then pass the knotted end through the loop forming a cow hitch[^2]
 
 ## Notes
 ![image](.attachments/03e26c0a65e9634b15752501ddc60a4dc48d41f4.jpeg) 
@@ -38,3 +38,4 @@
 ![image](.attachments/8b20f17d6e9bbf3c7bee47fd850a3e9028821d35.jpeg) 
 
 [^1]: https://en.wikipedia.org/wiki/Overhand_loop
+[^2]: https://en.wikipedia.org/wiki/Cow_hitch
