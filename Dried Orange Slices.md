@@ -1,4 +1,4 @@
-# Template
+# Dried Orange Slices
 **Yield:** #
 **Prep Time:** 15 min
 **Cook Time:** 3 hrs
