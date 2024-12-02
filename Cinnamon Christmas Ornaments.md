@@ -37,5 +37,9 @@
 
 ![image](.attachments/8b20f17d6e9bbf3c7bee47fd850a3e9028821d35.jpeg) 
 
+![image](.attachments/a86d6a9b5f96050328b8b0301bdb898a4e3f6353.jpeg) 
+
+![image](.attachments/4e4bed82ba1c4ac3c3018ca682dfd96a0f6b7ec1.jpeg) 
+
 [^1]: https://en.wikipedia.org/wiki/Overhand_loop
 [^2]: https://en.wikipedia.org/wiki/Cow_hitch
