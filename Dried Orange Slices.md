@@ -13,6 +13,8 @@
 4. Dry in oven
 5. Oranges should not have any remaining moisture
 
+See [Cinnamon Christmas Ornaments](/Cinnamon%20Christmas%20Ornaments.md#assemble) for ornament assembly.
+
 ## Notes
 
 ![image](.attachments/79c521a2e468a46cc9368bdf862762b889214b93.jpeg) 
