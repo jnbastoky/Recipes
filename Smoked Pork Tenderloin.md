@@ -29,6 +29,14 @@
 ## Notes
 Left overs can be sliced and seared in butter in a skillet
 
+
+Weight | Temperature | Time
+-|-|-
+1.25 lb | 250F | 2 hr
+
+
+1.25 @ 250F
+
 ![image](.attachments/202b2176ed848dc40aecc456ded4bea69916fda6.jpeg) 
 
 ![image](.attachments/43fc64367a25c3a635a809784aad235101a6e431.jpeg)
