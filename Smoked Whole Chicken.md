@@ -4,10 +4,10 @@
 **Cook Time:** 4 hr
 
 ## Ingredients
-- 5.5 lb? Whole Roasting chicken
-- Grill mates roasted herb and garlic seasoning
-- Vinegar
-- Olive oil
+- 5.5 lb? whole roasting chicken
+- McCormick® Grill Mates® Roasted Garlic & Herb Seasoning
+- white vinegar
+- olive oil
 - Hickory and Apple wood
 
 ## Procedure
