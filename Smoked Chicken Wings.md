@@ -15,4 +15,5 @@
 3. Smoke for 2-2.25 hrs
 
 ## Notes
+Maybe rotate part way through. The bottoms didn’t get the same color. 
 ![image](.attachments/e5c884eb75c244307a1fe697bad8a88e09add326.jpeg) 
