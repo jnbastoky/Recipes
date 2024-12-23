@@ -11,11 +11,14 @@
 - Hickory and Apple wood
 
 ## Procedure
-1. Mix vinegar, olive oil, and seasoning
-2. Spatchcock chicken
-3. Tuck in legs and wings
-4. Smoke for 3 hrs at 225-250F (internal ~130)
-5. Increase temperature to 400F until interval temp of 165F
+1. Pre-heat smoker to 225-250F
+2. Mix vinegar, olive oil, and seasoning
+3. Spatchcock chicken
+4. Salt
+6. Tuck in legs and wings
+7. Apply marinade
+8. Smoke for 3 hrs at 225-250F (internal ~130)
+9. Increase temperature to 400F until interval temp of 165F
 
 ## Notes
 
