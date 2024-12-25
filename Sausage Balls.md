@@ -9,7 +9,7 @@
 - 2 cups sharp cheddar
 
 ## Procedure
-1.Preheat oven to 350F
+1. Preheat oven to 350F
 2. Mix cheese and Bisquick in a large bowl
 3. Knead in sausage until all ingredients are completely mixed.  (It may not seem like all the cheese is going to mix in but it will.) You should end with a big ball of "dough"
 4. Form "balls": Don't actually roll into balls.  Just pull chunks from the ball.  Loosely form if needed. Should be roughly 1.5" in all dimensions.
