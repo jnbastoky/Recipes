@@ -1,4 +1,4 @@
-# Template
+# Fathead Pizza
 **Yield:** 1
 **Prep Time:** 20 min
 **Cook Time:** 15 min
