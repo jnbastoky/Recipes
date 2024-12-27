@@ -1,4 +1,4 @@
-# Smoked Pork Tenderloin
+# Smoked Baby Back Ribs
 **Yield:** 4 servings
 **Prep Time:** 15 min
 **Cook Time:** 4 hours
