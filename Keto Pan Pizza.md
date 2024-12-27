@@ -1,4 +1,4 @@
-# Template
+# Keto Pan Pizza
 **Yield:** 1 pizza
 **Prep Time:** 26 hrs
 **Cook Time:** ?
