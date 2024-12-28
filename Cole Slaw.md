@@ -27,3 +27,6 @@ Broccoli version:
 - Cumin
 - Smoked paprika
 - Garlic powder
+- Celery seed
+- Salt
+- Pepper
