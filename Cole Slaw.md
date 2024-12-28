@@ -20,3 +20,10 @@
 
 ## Notes
 
+Broccoli version:
+- Broccoli slaw
+- Mayo
+- Lemon juice
+- Cumin
+- Smoked paprika
+- Garlic powder
