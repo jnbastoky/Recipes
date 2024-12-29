@@ -1,8 +1,11 @@
 title: "Jeremy Bastoky's Recipes"
 author: Jeremy Bastoky
+github_username:  jnbastoky
 
-social_links:
-  github: https://github.com/jnbastoky/Recipes
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/jnbastoky/Recipes"
 
 include:
   - ".attachments"
