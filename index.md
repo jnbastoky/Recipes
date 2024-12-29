@@ -1,8 +1,9 @@
 <ul>
   {% for page in site.static_files %}
-    <li><a href="{{ page.path | slice: 1 }}">{{ page.basename }}</a></li>
+    {% if page.name != 'index.md' and page.name != 'README.md' %}
+      <li><a href="{{ page.path | remove_first: '/' }}">{{ page.basename }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
-{% for page in site.static_files %}
-  <a href="{{ page.path | slice: 1 }}">{{ page.basename }}</a><br>
-{% endfor %}
+
+{{ site | inspect }}
