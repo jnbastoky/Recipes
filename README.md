@@ -13,4 +13,4 @@ Edits made with https://www.noteshub.app/
 
 # Repository Contents
 
-<pre>{{ site.pages | inspect }}</pre>
+<pre>{{ site | inspect }}</pre>
