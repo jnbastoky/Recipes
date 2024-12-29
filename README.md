@@ -10,3 +10,7 @@ Edits made with https://www.noteshub.app/
     {% endif %}
   {% endfor %}
 </ul>
+
+# Repository Contents
+
+<pre>{{ site.pages | inspect }}</pre>
