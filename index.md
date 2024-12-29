@@ -6,4 +6,6 @@
   {% endfor %}
 </ul>
 
+<pre></pre>
 {{ site | inspect }}
+</pre>
