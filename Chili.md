@@ -1,5 +1,3 @@
----
----
 # Chili
 **Yield:** 6 servings
 **Prep Time:** 1 hour
