@@ -1,8 +1,8 @@
 <ul>
-  {% for file in site.static_files %}
-    {% if file.path contains '.md' and file.path != 'README.md' and file.path != 'toc.md' %}
-      {% assign filename = file.path | remove: '.md' %}
-      <li><a href="/{{ filename | replace: ' ', '-' | downcase }}/">{{ filename | replace: '-', ' ' | capitalize }}</a></li>
-    {% endif %}
+  {% for page in static_files %}
+    <li><a href="{{ page.path | slice: 1 }}">{{ page.basename }}</a></li>
   {% endfor %}
 </ul>
+{% for page in static_files %}
+  <a href="{{ page.path | slice: 1 }}">{{ page.basename }}</a><br>
+{% endfor %}
