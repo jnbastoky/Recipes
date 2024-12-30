@@ -6,8 +6,12 @@
   {% endfor %}
 </ul>
 
+_Source on [GitHub][github-source]_
+
 {% comment %}
 <pre>
   {{ site | inspect }}
 </pre>
 {% endcomment %}
+
+[github-source]: https://github.com/jnbastoky/Recipes
