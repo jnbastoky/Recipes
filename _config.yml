@@ -1,6 +1,7 @@
 title: "Jeremy Bastoky's Recipes"
 author: Jeremy Bastoky
 github_username:  jnbastoky
+baseurl: "/Recipes"
 
 minima:
   social_links:
