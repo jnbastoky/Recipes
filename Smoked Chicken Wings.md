@@ -13,6 +13,7 @@
 1. Pre-heat smoker to 225-250F
 2. Salt and pepper wings
 3. Smoke for 2-2.25 hrs
+4. Increase temperature for the last 15 min or so
 
 ## Notes
 Maybe rotate part way through. The bottoms didn’t get the same color. 
