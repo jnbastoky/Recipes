@@ -11,9 +11,9 @@
 - 2 green onions, finely chopped
 
 ### Dressing
-- 1/3 cup extra virgin olive oil
-- 3 tbsp lemon juice
-- 1/4 cup (4 tbsp) fine #1 bulgur or hemp seed
+- 1/3 cup extra virgin olive oil (80 g)
+- 3 tbsp lemon juice (36 g)
+- 1/4 cup (4 tbsp) fine #1 bulgur or hemp seed (32 g)
 
 ### Seasoning
 - salt
