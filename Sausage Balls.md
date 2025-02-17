@@ -5,7 +5,7 @@
 
 ## Ingredients
 - 1 lb hot breakfast sausage
-- 2-2.5 cups Bisquick
+- 2-2.5 cups Bisquick (280 g?)
 - 2 cups sharp cheddar
 
 ## Procedure
