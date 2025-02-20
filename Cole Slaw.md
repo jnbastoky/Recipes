@@ -4,9 +4,9 @@
 **Cook Time:** 5 min
 
 ## Ingredients
-- 5 oz slaw mix
-- 1.5 oz mayonnaise
-- 1.5 tbsp pickle juice
+- 140 g slaw mix
+- 50 g mayonnaise
+- 15 g lemon juice
 - 1 tbsp gochujang
 - garlic powder
 - onion powder
@@ -15,7 +15,7 @@
 - celery seed
 
 ## Procedure
-1. Mix mayonnaise, pickle juice, gochujang, onion, and seasonings
+1. Mix mayonnaise, lemon juice, gochujang, onion, and seasonings
 2. Mix in slaw mix
 
 ## Notes
