@@ -4,7 +4,7 @@
 **Cook Time:** 5 min
 
 ## Ingredients
-- 140 g slaw mix
+- 150 g slaw mix
 - 50 g mayonnaise
 - 15 g lemon juice
 - 1 tbsp gochujang
