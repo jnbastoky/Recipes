@@ -13,7 +13,7 @@ _Source on [GitHub][github-source]_
 
 _Edits made with [NotesHub][NotesHub-site]_
 
-_Site generated with [Jekyl][Jekyl-site]_
+_Site generated with [Jekyl][Jekyl-site] using the [Minima][Minima-site] theme.  (Minima theme produces some weird artifacts from pure markdown files.  So that's why headings appear multiple times.)_
 
 
 {% comment %}
@@ -25,3 +25,4 @@ _Site generated with [Jekyl][Jekyl-site]_
 [github-source]: https://github.com/jnbastoky/Recipes
 [NotesHub-site]: https://www.noteshub.app/
 [Jekyl-site]: https://jekyllrb.com/
+[Minima-site]: https://github.com/jekyll/minima
