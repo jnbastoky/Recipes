@@ -1,4 +1,3 @@
-## Introduction
 This is collection of personal recipes.  Most of these are created by me or are an adaptation of other recipes (sources are noted).  They are often a work in progress and are updated from time to time.
 
 ## Table of Contents
