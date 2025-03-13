@@ -22,6 +22,6 @@ _The follow ingredient amounts are estimated:_
 7. Add olive oil and toss to coat
 8. Spread sprouts on parchment covered baking sheet with flat side down
 9. Bake until tops of sprouts start to brown
-10. Remove from oven and give a light splash with lemon joice
+10. Remove from oven and give a light splash with lemon juice
 
 ## Notes
