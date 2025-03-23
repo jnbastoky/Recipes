@@ -1,6 +1,6 @@
 # Buffalo Chicken Dip
 **Yield:** 13 servings
-**Prep Time:** 10 min
+**Prep Time:** 30 min
 **Cook Time:** 1 hr
 
 ## Ingredients
