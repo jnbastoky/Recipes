@@ -14,7 +14,7 @@
 ### Prep Chicken
 1. Preheat oven to 350 F
 2. Butterfly chicken breasts if you aren't using cutlets
-3. Salt chicken. Let set 30 min - 1 hr
+3. Salt chicken. Let sit 30 min - 1 hr
 4. Bake chicken until 165 F (about 15 min)
 5. Rest
 6. Shred in stand mixer
