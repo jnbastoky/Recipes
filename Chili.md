@@ -9,18 +9,18 @@
 - 1 - Head of Garlic (about 10 cloves), pressed
 - 2 lb - Ground Sirloin
 - Phase 1 Spices
-  - 2 Tbsp - Chili Powder
-  - 1 tsp - Cumin
-  - 1 tsp - Oregano
-- 2 - 14oz cans petite diced tomatoes
+  - 2 Tbsp (15 g) - Chili Powder
+  - 1 tsp (2.2 g) - Cumin
+  - 1 tsp (1 g) - Oregano
+- 2 - 14 oz cans petite diced tomatoes
 - 32 oz - Beef Bone Broth
 - Phase 2 Spices
-  - 2 Tbsp - Chili Powder
-  - 1 ½  tsp - Cumin
-  - 1 tsp - Oregano
-  - ½ tsp - Cheyenne or habanero powder
-  - 1 tsp - Smoked Paprika
-- 1 tbsp - red wine vinegar
+  - 2 Tbsp  (15 g) - Chili Powder
+  - 1 ½  (3.3 g) tsp - Cumin
+  - 1 tsp (1 g) - Oregano
+  - ½ tsp (1.1 g) - Cheyenne or habanero powder
+  - 1 tsp (2.5 g) - Smoked Paprika
+- 1 tbsp - red wine vinegar (optional)
 
 
 ## Procedure
