@@ -42,7 +42,7 @@
 12. Add 1 cup of bone broth
 13. Simmer and reduce
 14. It's done when you can move a spoon from the front to the back of the dutch oven and briefly see the bottom of the pan.  It's shouldn't be soupy at this point.
-15. Add vinegar
+15. Add vinegar (optional)
 
 
 ## Notes
