@@ -16,7 +16,7 @@
 ## Procedure
 1. Brown broccoli florets in oil in dutch oven in batches. Salt as you go.
 2. Remove broccoli to cool.
-3. Brown onions in dutch oven.  Salt.
+3. Brown onions in butter in dutch oven.  Salt.
 4. Add garlic when almost done browning onions.
 5. Add a little chicken broth to deglaze pot.
 6. Add remainder of broth and broccoli back into the pot.
