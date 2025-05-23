@@ -13,15 +13,15 @@
 - Sugar Free Maple Syrup (for topping)
 
 ## Procedure
-1. In stand mixer combine cream cheese and butter
-2. Add egg one at a time
-3. Add the protein powder to the wet ingredient mixture and mix until fully combined
-4. Add the vanilla extract and baking powder and maybe a little salt
-5. Heat a skillet on medium-low heat (~3.5)
-6. Spray pan with coconut cooking spray
-7. Pour in the pancake batter and cook for 2 minutes on each side.
-    1. Re-spray between flips
-    2. When you see bubbles start to rise through the batter that's usually a good indication it's time to flip
+1. Whisk eggs in stand mixer and transfer into another bowl.
+2. In stand mixer combine cream cheese, butter, and half of the protein powder.
+3. Slowly add eggs until completely incorporated.
+4. Add remaining protein powder to the wet ingredient mixture and mix until fully combined
+5. Add the vanilla extract and baking powder and maybe a little salt
+6. Heat a skillet on low heat (~2.5)
+7. Very lightly oil pan. (Too much oil will cause the cakes to have holes and not cook evenly.)
+8. Pour in the pancake batter and cook for 2 minutes on each side.
+    1. When you see bubbles start to rise through the batter that's usually a good indication it's time to flip
 
 ## Notes
 **Source:** https://www.ketoconnect.net/keto-macro-cakes/
