@@ -27,7 +27,7 @@
 ### Prep Ribs
 1. Pat racks dry
 2. Remove membrane with paper towel
-3. Apply thin later of mustard
+3. Apply thin layer of mustard
 4. Apple salt, pepper, & garlic powder
 5. Apply dry rub
 
