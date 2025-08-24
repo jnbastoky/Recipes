@@ -18,7 +18,7 @@
 3. Slowly add eggs until completely incorporated.
 4. Add remaining protein powder to the wet ingredient mixture and mix until fully combined
 5. Add the vanilla extract and baking powder and maybe a little salt
-6. Heat a skillet on low heat (~2.5)
+6. Heat a skillet on low heat (~3) (375-400F surface temperature)
 7. Very lightly oil pan. (Too much oil will cause the cakes to have holes and not cook evenly.)
 8. Pour in the pancake batter and cook for 2 minutes on each side.
     1. When you see bubbles start to rise through the batter that's usually a good indication it's time to flip
