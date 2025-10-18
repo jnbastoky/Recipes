@@ -22,7 +22,7 @@ _Figure out when to add salt to dough_
 
 ### Form Pizza
 1. Let dough come to room temperature
-2. Oil 12* cast iron skillet
+2. Oil 12” cast iron skillet
 3. Stretch dough to fit pan
 4. Let rise for 1-2 hours
 
