@@ -24,7 +24,15 @@
 
 ### Brown Vegetables & Roast
 1. Heat oil in Dutch oven on medium-high heat
-2. 
+2. Brown roast on all sides (8-10 minutes)
+3. Remove beef from Dutch oven
+4. Reduce heat to medium
+5. Add onion, celery. and carrots. Stir until brown (6-8 minutes)
+6. Add garlic and sugar and stir for about 30 seconds until fragant
+7. Add 1 cup of stock and thyme.
+8. Stir and scrape pan.
+9. Add roast back to Dutch over.
+10. Add water until half way up dsode pf 
 
 ## Notes
 
