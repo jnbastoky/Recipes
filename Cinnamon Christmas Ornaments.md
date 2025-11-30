@@ -4,7 +4,7 @@
 **Cook Time:** 2 hrs
 
 ## Ingredients
-- 2 cups cinnamon
+- 2 cups cinnamon (approx 215 g)
 - 2 cups apple sauce (sweetened but not sure if this matters)
 
 ## Procedure
