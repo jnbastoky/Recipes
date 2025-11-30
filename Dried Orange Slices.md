@@ -1,10 +1,10 @@
 # Dried Orange Slices
-**Yield:** #
+**Yield:** 8 slices per orange
 **Prep Time:** 15 min
 **Cook Time:** 3 hrs
 
 ## Ingredients
-- Mandarin oranges
+- Mandarin or Navel oranges
 
 ## Procedure
 1. Preheat oven to 170 F
