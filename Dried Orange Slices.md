@@ -13,7 +13,7 @@
 4. Dry in oven. This can take several hours. 
 5. Oranges should not have any remaining moisture
 
-See [Cinnamon Christmas Ornaments](Cinnamon%20Christmas%20Ornaments.md) for ornament assembly.
+See [Cinnamon Christmas Ornaments](/Cinnamon%20Christmas%20Ornaments.md) for ornament assembly.
 
 ## Notes
 A higher temperature dries the oranges faster but seems to cause the slices to brown more. 
