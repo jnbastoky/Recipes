@@ -1,10 +1,10 @@
 # Chopped Liver
-**Yield:** 
+**Yield:** about 2 cups
 **Prep Time:** 10 min
 **Cook Time:** 30 min
 
 ## Ingredients
-- 0.5 lbs calf liver, trim and connective tissue
+- 0.5 lbs calf liver, thin sliced, trim any connective tissue
 - 1 large yellow onion, diced
 - 1 hard boiled egg (11.5 min)
 - Butter
