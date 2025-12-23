@@ -1,5 +1,5 @@
 # Brisket
-**Yield:** 6-8 servings
+**Yield:** 8-10 servings
 **Prep Time:** 30 min
 **Cook Time:** 5 hr
 
