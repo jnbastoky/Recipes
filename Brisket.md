@@ -16,6 +16,7 @@
 - 3 sprigs thyme
 - 1 can 14.5 oz can petite dices tomatoes
 - 1 tbsp smoked paprika
+- 1 can butter beans
 
 ## Procedure
 1. Preheat oven to 350 F
@@ -27,12 +28,13 @@
 7. Add garlic and tomato paste for a few minute until it darkens.
 8. Add paprika.  Cook for a minute.
 9. Add chicken broth, wine, tomatoes, herbs and bring to a simmer.  Scrape brown bits from pan.
-10. Add brisket back to pan, cover tightly with aluminum foil, transfer to ovn
-11. Check on brisket every 30 min.
-12. Remove from oven when it starts to get tender. Slice and return to pan.
-13. Roast for another hour.
-14. Refrigerate
-15. Reheat the next day.
+10. Add brisket back to pan, cover tightly with aluminum foil, transfer to oven
+11. Check on brisket every 30-60 min to make sure there is enough liquid. 
+12. Remove from oven when tender (4-4.5 hr)
+15. Refrigerate
+16. Remove brisket from pan. Slice and return to pan.
+17. Add butter beans. 
+18. Reheat on 350 F for about an hour
 
 ## Notes
 Source: Grandma (Hazel’s Pot Roast/Brisket) and Cook’s Illustrated
