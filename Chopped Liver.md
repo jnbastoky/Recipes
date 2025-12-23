@@ -13,7 +13,7 @@
 - Salt
 
 ## Procedure
-1. Sauté onions until translucent just starting to brown (salt)
+1. Sauté onions in butter until translucent just starting to brown (salt)
 2. Add liver to pan. Salt and pepper liver. Add thyme.
 3. Brown liver on both sides until cooked through.
 4. Remove onions and liver and let cool a little. 
