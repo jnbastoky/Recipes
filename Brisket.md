@@ -35,4 +35,5 @@
 15. Reheat the next day.
 
 ## Notes
+Source: Grandma (Hazel’s Pot Roast/Brisket) and Cook’s Illustrated
 
