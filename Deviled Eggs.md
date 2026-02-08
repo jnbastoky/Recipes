@@ -9,7 +9,7 @@
 ### Filling
 - 100 g egg yolk (all the yolks)
 - 50 g mayo
-- 20 g mustard
+- 20 g mustard (I think this is too much)
 - 10 g diced fermented pickle
 - 1 g salt
 
