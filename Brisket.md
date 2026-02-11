@@ -8,7 +8,7 @@
 - 3 large white onion, julien cut in half
 - 2 small/medium carrots, dices
 - 2 ribs celery, diced
-- 6 cloves garlic
+- 6 cloves garlic, pressed
 - 1 tbsp tomato paste
 - 2 cups low sodium chicken broth
 - 1 cup Cabernet Sauvignon
