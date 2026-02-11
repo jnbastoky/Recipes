@@ -25,16 +25,18 @@
 4. Flip and brown other side (15 min)
 5. Remove brisket from pan
 6. Using fat in pan salt and saute onions, carrots, celery until onion are translucent and start to brown (add additional neutral oil if needed).
-7. Add garlic and tomato paste for a few minute until it darkens.
+7. Add garlic and tomato paste for a few minutes until it darkens.
 8. Add paprika.  Cook for a minute.
 9. Add chicken broth, wine, tomatoes, herbs and bring to a simmer.  Scrape brown bits from pan.
 10. Add brisket back to pan, cover tightly with aluminum foil, transfer to oven
 11. Check on brisket every 30-60 min to make sure there is enough liquid. 
 12. Remove from oven when tender (4-4.5 hr)
-15. Refrigerate
-16. Remove brisket from pan. Slice and return to pan.
-17. Add butter beans. 
-18. Reheat on 350 F for about an hour
+15. Refrigerate overnight
+
+### Reheating
+1. Remove brisket from pan. Slice and return to pan.
+2. Add butter beans. 
+3. Reheat on 350 F for about an hour
 
 ## Notes
 Source: Grandma (Hazel’s Pot Roast/Brisket) and Cook’s Illustrated
