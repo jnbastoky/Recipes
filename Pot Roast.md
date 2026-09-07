@@ -41,11 +41,11 @@
 ### Sauce
 1. Remove roast from pot and tent with foil.
 2. Let liquid settle for 5 minute and skim oil/fat.
-3. Remove Thyme.
+3. Remove thyme.
 4. Boil over medium-high heat until reduced to 1.5 cups (about 8 minutes).
 5. Add wine and reduce to 1.5 cups.
 6. Season with salt and pepper.
-7. Add roast to back to pot and pull apart into chunks.  Toss in the sauce.
+7. Add roast back to pot and pull apart into chunks.  Toss in the sauce.
 
 ## Notes
 Classic Pot Roast recipe from Cook's Illustrated *The Science of Good Cooking.
