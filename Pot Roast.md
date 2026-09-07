@@ -5,7 +5,7 @@
 
 ## Ingredients
 - Beef chuck-eye roast
-- 1 onion, chopped
+- 1 white onion, chopped
 - 1 small carrot, chopped
 - 1 small celery stalk, chopped
 - 2 garlic cloves, crushed
