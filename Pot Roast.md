@@ -9,7 +9,7 @@
 - 1 small carrot, chopped
 - 1 small celery stalk, chopped
 - 2 garlic cloves, crushed
-- 2 tsps, sugar
+- 2 tsps sugar
 - 1-1/4 cup low-sodium chicken broth
 - 1-1/4 cup beef broth
 - 1 sprig fresh thyme
