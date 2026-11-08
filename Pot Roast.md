@@ -48,4 +48,4 @@
 7. Add roast back to pot and pull apart into chunks.  Toss in the sauce.
 
 ## Notes
-Classic Pot Roast recipe from Cook's Illustrated *The Science of Good Cooking.
+Classic Pot Roast recipe from Cook's Illustrated *The Science of Good Cooking*.
